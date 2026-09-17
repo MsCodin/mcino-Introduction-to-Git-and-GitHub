@@ -1,0 +1,4 @@
+git branch -vv 
+  bug-fix-revert 0958812 Add github-branches output file for Task 9
+  bug-fix-typo   3400875 Fix year typo in README footer
+* main           7d628fb [origin/main] Add merge-branches file for Task 7
